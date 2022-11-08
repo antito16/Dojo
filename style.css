@@ -1,0 +1,23 @@
+.titulo
+{
+background-color: black;
+color: aliceblue;
+font-family: Arial, Helvetica, sans-serif;
+}
+span
+{
+    color: aqua;
+}
+.titulo2{
+    background-color: indigo;
+color: aliceblue;
+text-align: center;
+font-style: italic;
+}
+.titulo3{
+    background-color: lightskyblue;
+color: black;
+text-align: right ;
+text-decoration-line: underline;
+font-weight: bold;
+}
