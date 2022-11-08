@@ -1,0 +1,203 @@
+* {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-decoration: none;
+    
+    }
+    
+    button{
+        
+        box-shadow: 5px 5px black;
+        color:rgb(255, 255, 255);
+        background-color: rgb(0, 153, 255);
+        border: 3px solid black;
+        width: 150px;
+        height: 30px;
+        cursor: pointer;
+    }
+
+    .nav-links{
+        margin: 20px;
+        margin-top: -45px;
+    }
+    
+    ul {
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-end;
+    }
+    
+    li {
+        display: inline;
+        margin: 10px 10px 10px 10px;
+    }
+    
+    .main{
+    
+    margin-bottom: -90px;
+    
+    }
+
+    .nav {
+        background-color: rgb(146, 146, 146);
+        padding: 1px;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+
+    .barra input{
+        margin-top: 35px;
+        margin-left: 350px;
+        width: 800px;
+        height: 30px;
+        border: 3px solid black;
+    }
+
+    a {
+        color: white;
+    }
+
+    h1 {
+        color: black;
+        margin-left: 40px;
+    }
+
+    /* ------------------------------ */
+
+    #bloque1{
+
+        background-color: white;
+        border: 3px solid black;
+        margin-left: 200px ;
+        margin-right: 800px;
+        margin-top: 20px;
+        height: 300px;
+    }
+
+
+    .bloque1{
+
+        margin-left: 30px;
+
+    }
+
+
+    .parrafo1{
+
+        margin-left: 350px;
+        margin-top: -100px;
+        font-size: 1.50em;
+    }
+
+
+    .botton1 button{
+
+        box-shadow: 5px 5px black;
+        color:black;
+        background-color: rgb(255, 251, 0);
+        border: 3px solid black;
+        width: 150px;
+        height: 50px;
+        cursor: pointer;
+        margin-left: 30px;
+        margin-top: 20px;
+    }
+
+
+
+
+
+     /* ------------------------------ */
+
+     #bloque2{
+
+        background-color: white;
+        border: 3px solid black;
+        margin-left: 200px ;
+        margin-right: 800px;
+        margin-top: 20px;
+        height: 300px;
+    }
+
+
+    .bloque2{
+
+        margin-left: 30px;
+
+    }
+
+
+    .parrafo2{
+
+        margin-left: 550px;
+        margin-top: -250px;
+        font-size: 1.50em;
+    }
+
+
+    .botton2 button{
+        
+        box-shadow: 5px 5px black;
+        color:black;
+        background-color: rgb(255, 251, 0);
+        border: 3px solid black;
+        width: 150px;
+        height: 50px;
+        cursor: pointer;
+        margin-left: 230px;
+    }
+
+
+     /* ------------------------------ */
+     
+     #bloque3{
+
+        background-color: white;
+        border: 3px solid black;
+        margin-left: 1200px ;
+        margin-right: 200px;
+        margin-top: -578px;
+        height: 230px;
+        width: 500PX;
+       
+    }
+
+
+    .botton3 button{
+        
+        box-shadow: 5px 5px black;
+        color:black;
+        background-color: greenyellow;
+        border: 3px solid black;
+        width: 400px;
+        height: 50px;
+        cursor: pointer;
+        margin-left: 30px;
+        font-size: 1.50em;
+    }
+
+
+
+
+
+
+         /* ------------------------------ */
+
+h2{
+
+margin-left: 40px;
+font-size: -9%;
+
+}
+
+h3{
+
+margin-left: 20px;
+
+}
+
+a{
+
+    color: rgb(0, 110, 255);
+    text-decoration:underline;
+    cursor: pointer;
+}
